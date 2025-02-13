@@ -1,3 +1,5 @@
+![Cat Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) 
+
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gsoechsler&theme=darkhub&margin-w=15)
 
